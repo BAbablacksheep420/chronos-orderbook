@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Data files & generated outputs
+data/
+*.csv
+*.parquet
+*.h5
+
+# Interactive HTML dashboards & logs
+*.html
+*.log
+
+# IDE & OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
